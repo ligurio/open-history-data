@@ -21,3 +21,5 @@
 по таким ресурсам (наподобие [people.yandex.ru](http://people.yandex.ru)).
 
 Бронников Сергей [@estet](https://twitter.com/estet) (estetus@gmail.com)
+
+[https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy]
