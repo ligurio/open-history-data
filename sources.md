@@ -3,6 +3,7 @@
 * [Башкортостан](http://edoclib.gasrb.ru/)
 * [Латвия](http://www.lvva-raduraksti.lv/ru/about.html)
 * [Пермский край](http://pokolenia.permkrai.ru/)
+* Россия [Докусфера](http://leb.nlr.ru/), [Российская Национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do)
 * [Самарская область](http://cgaso.regsamarh.ru)
 * [Эстония](http://www.ra.ee/dgs/explorer.php)
 
@@ -15,6 +16,12 @@
 * [Электронный банк документов «Подвиг народа в Великой Отечественной войне 1941-1945 гг.»](http://www.podvignaroda.mil.ru/)
 * [База данных о военопленных](http://www.dokst.ru/node/1118)
 * [База данных осуждённых немцев](http://www.dokst.de/main/node/1114)
+* [Военопленные в Норвегии](http://arcticwar.pomorsu.ru/memorial/voennoplen/voen.html)
+* [Немецкие военнопленные, погибшие осенью 1944 года](http://kronos.narc.fi/saksa/ru/)
+* [Военопленные, погибшие во время Зимней войны в 1939-1940 годах в Финляндии](http://kronos.narc.fi/sfv1/sfv1.html)
+* [Военнопленные, погибшие на войне между Финляндией и Советским Союзом в 1941–1944 годах](http://kronos.narc.fi/sfv2/sfv2.html)
+* [Погибшие в гражданских лагерях восточной Карелии в 1941–1944 годах](http://kronos.narc.fi/karelija/karelija.html)
+* [Гражданские лица, погибшие в 1941–44 годах в лагерях района Миехиккяля](http://kronos.narc.fi/miehikkala/ru/)
 
 ## Книги памяти жертв политических репрессий
 
@@ -35,7 +42,7 @@
 * Кубань [поиск](http://kubanmemo.ru/bookmemo/search_card.php) и [список](http://kubanmemo.ru/bookmemo/content_table.php)
 * [Курганская область](http://www.memo.ru/memory/kurgan/index.htm)
 * [Ленинградская область](http://lenww2.ru/)
-* [Ленинград](http://www.visz.nlr.ru/search/peter.html)
+* [Ленинград](http://www.visz.nlr.ru/search/peter.html) [Санкт-Петербургский мартиролог духовенства и мирян](http://www.petergen.com/bovkalo/mart.html)
 * [Липецкая область](http://www.memo.ru/memory/lipeck/index.htm)
 * [Магаданская область](http://www.memo.ru/memory/magadan/index.htm)
 * [Республика Марий Эл](http://www.memo.ru/memory/mari/index.htm)
@@ -43,13 +50,14 @@
 * [Нижний Тагил](http://www.memo.ru/memory/tagil/index.htm)
 * [Новгородская область](http://www.visz.nlr.ru/search/lists/novg/)
 * [Псков](http://www.visz.nlr.ru/search/lists/pskov/)
+* [Самара](http://www.memo.ru/memory/samara/index.htm) [Биографические справки на семьи самарцев](http://www.memo.ru/memory/samara/families/index.htm)
 * [Саратовская область](http://www.memo.ru/memory/Saratov/index.htm)
 * [Свердловская область](http://www.memo.ru/memory/ekater/index.htm)
 * [Смоленск](http://memorial-katyn.ru/en/martirolog.html)
 * [Республика Татарстан](http://www.memo.ru/memory/kazan/index.htm)
 * Тульская область [1](http://www.tounb.ru/tula_region/Memorygenerations/book_pamyati.aspx), [2](http://www.memo.ru/memory/tula/index.htm)
 * [Тюменская область](http://www.memo.ru/memory/tumen/index.htm)
-* Украина [1](http://www.memory-book.com.ua/), [2](http://www.reabit.org.ua/nbr/)
+* Украина [1](http://www.memory-book.com.ua/), [2](http://www.reabit.org.ua/nbr/), [3](http://www.reabit.org.ua/books/)
 * [Ульяновск](http://www.memo.ru/memory/simbirsk/index.htm)
 * [Ханты-Мансийский автономный округ](http://www.memo.ru/memory/hunty/index.htm)
 * [Ямало-Ненецкий автономный округ](http://www.memo.ru/memory/yamal/index.htm)
@@ -57,6 +65,8 @@
 * [Ярославль](http://www.memorial.yaroslavl.ru/spisky/spiski_frame.htm)
 
 [Сталинские расстрельные списки](http://stalin.memo.ru/index.htm)
+
+[Расстрелянные в Москве](http://mos.memo.ru/)
 
 [Жертвы политического террора в СССР](http://lists.memo.ru/)
 
@@ -99,3 +109,5 @@
 * [База данных убитых, похороненных и пропавших без вести на территории Московской области в 1941-1942 годах](http://www.mosobl-memorial.ru/)
 * [Книга Памяти](http://patriot-izdat.ru/memory/memorybook/)
 * [Эмигранты США](http://www.libertyellisfoundation.org/passenger)
+* [Захоронения советских военнопленных и партизан, погибших во время Второй мировой войны на территории Бельгии](http://www.belgium.mid.ru/map/map.html)
+* [Кладбища советских граждан в Бельгии, Германии и Норвегии](http://www.dokst.ru/main/content/%D0%9A%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B0/%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B0-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD)
