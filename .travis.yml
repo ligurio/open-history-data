@@ -7,7 +7,8 @@ install:
   - pip install requests markdown beautifulsoup4
 
 script:
-  - python check_urls.py sources.md
+  - python check_urls.py sources-ru.md
+  - python check_urls.py sources-non-ru.md
 
 notifications:
   email:
