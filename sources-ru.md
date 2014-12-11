@@ -125,4 +125,3 @@
 
 * [Книга Памяти советских немцев-узников Тагиллага](http://www.rusdeutsch.ru/?tagil=5)
 * [Книга Памяти немцев-трудармейцев Богословлага](http://www.rusdeutsch.ru/?bogoslov=1)
-* [Эмигранты США](http://www.libertyellisfoundation.org/passenger)

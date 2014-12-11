@@ -10,7 +10,7 @@
 * [Acadian Census](http://www.acadian-home.org/census1708.html)
 * [Mennonite Genealogical Resources](http://www.mennonitegenealogy.com)
 * Norway [1](http://arkivverket.no/Digitalarkivet), [2](http://www.dokpro.uio.no/rygh_ng/rygh_form.html)
-* [US Genealogy](http://www.usgenweb.org/)
+* United States [1](http://www.usgenweb.org/), [2](http://www.libertyellisfoundation.org/passenger)
 * [Germany Geonames](http://christoph.stoepel.net/geogen/en/Default.aspx)
 
 ## Misc
