@@ -16,17 +16,31 @@
 * [Немецкие военнопленные, погибшие осенью 1944 года](http://kronos.narc.fi/saksa/ru/)
 * [База данных о военопленных](http://www.dokst.ru/node/1118)
 * [База данных осуждённых немцев](http://www.dokst.de/main/node/1114)
-* [Военопленные в Норвегии](http://arcticwar.pomorsu.ru/memorial/voennoplen/voen.html)
+* Военопленные в Норвегии [1](http://arcticwar.pomorsu.ru/memorial/voennoplen/voen.html), [2](http://129.177.171.80/cgi-win/webcens.exe?slag=visbase&filnamn=krgfang1&spraak=e&metanr=2510)
 * [Военнопленные, погибшие на войне между Финляндией и Советским Союзом в 1941–1944 годах](http://kronos.narc.fi/sfv2/sfv2.html)
 * [Великая Отечественная война 1941-1945](http://www.obd-memorial.ru/)
 * [Электронный банк документов «Подвиг народа в Великой Отечественной войне 1941-1945 гг.»](http://www.podvignaroda.mil.ru/)
 * [Межрегиональный информационно-поисковый центр](http://ipc.antat.ru/Ref/allq.asp) (требуется авторизация)
 * [Война в Афганистане](http://www.afgan.ru/memoryafgan/)
-* [Книга памяти: Списки советских и российских граждан, погибших во время войн, военных конфликтов и боевых действий в межвоенный период и после 1945 года](http://patriot-izdat.ru/memory/memorybook/)
+* [Книга Памяти: Списки советских и российских граждан, погибших во время войн, военных конфликтов и боевых действий в межвоенный период и после 1945 года](http://patriot-izdat.ru/memory/memorybook/)
+* [Список Героев Советского Союза](http://www.warheroes.ru/main.asp)
+* [Список полных кавалеров Ордена Славы](http://encyclopedia.mil.ru/encyclopedia/gentlemens.htm)
 
-## Книги памяти жертв политических репрессий
+## Книги Памяти
 
-* [Алтайский край](http://altapress.ru/tom2/)
+* [Волгоградская область](http://memorybook.volgadmin.ru/)
+* [Калининградская область](http://may1945-pobeda.narod.ru/kniga_pamjati5.htm)
+* Республика Карелия [1](http://pobeda.onego.ru/), [2](http://obd-pobeda.karelia.ru/)
+* [Свердловская область](http://memobook.midural.ru/index/ru/memobook)
+* [Тверь и Тверская область](http://www.history.tver.ru/book/index.html)
+* Украина [1](http://www.memory-book.com.ua/people/search), [2](http://memory.dag.com.ua/)
+* [Ярославская область](http://kluchnik-v.narod.ru/KP-01/spisok-01-000.htm)
+
+[Сводная база данных о воинах, погибших и пропавших без вести в годы Великой Отечественной войны](http://old.v-ipc.ru/Ref/all.asp) из [следующих источников](http://old.v-ipc.ru/docs/all.asp).
+
+## Книги Памяти жертв политических репрессий
+
+* Алтайский край [1](http://altapress.ru/tom2/), [2](http://www.memo.ru/memory/altai/index.htm)
 * [Алма-Ата](http://www.memo.ru/memory/almaata/index.htm)
 * [Архангельск](http://www.visz.nlr.ru/search/lists/arch1/)
 * [Вологодская область](http://www.visz.nlr.ru/search/lists/volog/)
@@ -47,14 +61,15 @@
 * [Липецкая область](http://www.memo.ru/memory/lipeck/index.htm)
 * [Магаданская область](http://www.memo.ru/memory/magadan/index.htm)
 * [Республика Марий Эл](http://www.memo.ru/memory/mari/index.htm)
+* [Москва](http://www.memo.ru/memory/preface/preface.htm)
 * [Мурманская область](http://www.visz.nlr.ru/search/lists/murm/)
 * [Нижний Тагил](http://www.memo.ru/memory/tagil/index.htm)
 * [Новгородская область](http://www.visz.nlr.ru/search/lists/novg/)
 * [Псков](http://www.visz.nlr.ru/search/lists/pskov/)
-* [Самара](http://www.memo.ru/memory/samara/index.htm) [Биографические справки на семьи самарцев](http://www.memo.ru/memory/samara/families/index.htm)
+* [Самара](http://www.memo.ru/memory/samara/index.htm), [Биографические справки на семьи самарцев](http://www.memo.ru/memory/samara/families/index.htm)
 * [Саратовская область](http://www.memo.ru/memory/Saratov/index.htm)
 * [Свердловская область](http://www.memo.ru/memory/ekater/index.htm)
-* [Смоленск](http://memorial-katyn.ru/en/martirolog.html)
+* Смоленск [1](http://memorial-katyn.ru/en/martirolog.html), [2](http://www.memo.ru/memory/smolensk/index.htm)
 * [Республика Татарстан](http://www.memo.ru/memory/kazan/index.htm)
 * Тульская область [1](http://www.tounb.ru/tula_region/Memorygenerations/book_pamyati.aspx), [2](http://www.memo.ru/memory/tula/index.htm)
 * [Тюменская область](http://www.memo.ru/memory/tumen/index.htm)
@@ -71,7 +86,7 @@
 
 [Жертвы политического террора в СССР](http://lists.memo.ru/)
 
-[Имена репрессированных, которые не были обнародованы в других Книгах памяти жертв политических репрессий](http://www.visz.nlr.ru:8101/search/lists/vi/)
+[Имена репрессированных, которые не были обнародованы в других Книгах Памяти жертв политических репрессий](http://www.visz.nlr.ru:8101/search/lists/vi/)
 
 ## Могилы и захоронения
 
@@ -81,6 +96,7 @@
 * [Захоронения советских военнопленных и партизан, погибших во время Второй мировой войны на территории Бельгии](http://www.belgium.mid.ru/map/map.html)
 * [Кладбища советских граждан в Бельгии, Германии и Норвегии](http://www.dokst.ru/main/content/%D0%9A%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B0/%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B0-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD)
 * [База данных убитых, похороненных и пропавших без вести на территории Московской области в 1941-1942 годах](http://www.mosobl-memorial.ru/)
+* [Военные могилы иностранцев в Норвегии](http://www.krigsgraver.no/home?locale=ru)
 
 ## Фамильные генеалогические древа
 
@@ -107,6 +123,6 @@
 
 ## Разное
 
-* [Книга памяти советских немцев-узников Тагиллага](http://www.rusdeutsch.ru/?tagil=5)
-* [Книга памяти немцев-трудармейцев Богословлага](http://www.rusdeutsch.ru/?bogoslov=1)
+* [Книга Памяти советских немцев-узников Тагиллага](http://www.rusdeutsch.ru/?tagil=5)
+* [Книга Памяти немцев-трудармейцев Богословлага](http://www.rusdeutsch.ru/?bogoslov=1)
 * [Эмигранты США](http://www.libertyellisfoundation.org/passenger)
