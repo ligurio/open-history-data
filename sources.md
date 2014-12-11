@@ -1,8 +1,10 @@
 ## Архивы
 
 * [Башкортостан](http://edoclib.gasrb.ru/)
+* [Латвия](http://www.lvva-raduraksti.lv/ru/about.html)
 * [Пермский край](http://pokolenia.permkrai.ru/)
 * [Самарская область](http://cgaso.regsamarh.ru)
+* [Эстония](http://www.ra.ee/dgs/explorer.php)
 
 ## Войны
 
@@ -28,7 +30,7 @@
 * [Карелия](http://www.visz.nlr.ru/search/lists/karel/)
 * Республика Коми [1](http://www.visz.nlr.ru/search/lists/komi12/), [2](http://www.memo.ru/memory/komi/index.htm)
 * [Кисловодск](http://www.kislovodsk-kurort.org/images/stories/docum/kniga_pamyati/index.htm)
-* [Красноярск](http://region.krasu.ru/veterans)
+* Красноярск [1](http://region.krasu.ru/veterans), [2](http://www.memorial.krsk.ru/)
 * Красноярский край [А-Б](http://www.memorial.krsk.ru/Articles/KP/1/0.htm), [В-Г](http://www.memorial.krsk.ru/Articles/KP/2/0.htm), [Д-И](http://www.memorial.krsk.ru/Articles/KP/3/0.htm), [K](http://www.memorial.krsk.ru/Articles/KP/4/0.htm)
 * Кубань [поиск](http://kubanmemo.ru/bookmemo/search_card.php) и [список](http://kubanmemo.ru/bookmemo/content_table.php)
 * [Курганская область](http://www.memo.ru/memory/kurgan/index.htm)
