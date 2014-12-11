@@ -22,4 +22,4 @@
 
 Бронников Сергей [@estet](https://twitter.com/estet) (estetus@gmail.com)
 
-[https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy]
+[Google CSE]: https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy
