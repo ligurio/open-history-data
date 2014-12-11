@@ -2,12 +2,14 @@
 
 * [Башкортостан](http://edoclib.gasrb.ru/)
 * [Пермский край](http://pokolenia.permkrai.ru/)
+* [Самарская область](http://cgaso.regsamarh.ru)
 
 ## Войны
 
 * [Война в Афганистане](http://www.afgan.ru/memoryafgan/)
 * [Великая Отечественная война 1941-1945](http://www.obd-memorial.ru/)
 * [Отечественная война 1812 года](http://officers.wardoc.ru/)
+* [Межрегиональный информационно-поисковый центр](http://ipc.antat.ru/Ref/allq.asp)
 * [Электронный банк документов «Подвиг народа в Великой Отечественной войне 1941-1945 гг.»](http://www.podvignaroda.mil.ru/)
 
 ## Книги памяти жертв политических репрессий
