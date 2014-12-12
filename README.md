@@ -2,7 +2,8 @@
 
 [![Build Status](https://travis-ci.org/ligurio/genealogic-sources.svg?branch=master)](https://travis-ci.org/ligurio/genealogic-sources)
 
-При поиске информации о родственниках для составления родословной
+При поиске информации о родственниках для
+[составления родословной](http://blog.bronevichok.ru/2014/04/03/genealogic-tree.html)
 у меня накопился солидный список источников информации.
 К сожалению все эти источники не так просто найти через поисковики,
 за исключением может самых популярных (<http://obd-memorial.ru>, <http://podvignaroda.mil.ru>).
