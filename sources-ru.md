@@ -3,7 +3,8 @@
 * [Башкортостан](http://edoclib.gasrb.ru/)
 * [Латвия](http://www.lvva-raduraksti.lv/ru/about.html)
 * [Пермский край](http://pokolenia.permkrai.ru/)
-* Россия [Докусфера](http://leb.nlr.ru/), [Российская Национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do), [Электронная библиотека Государственной публичной исторической библиотеки России](http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib)
+* Россия [Докусфера](http://leb.nlr.ru/), [Российская Национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do), [Электронная библиотека Государственной публичной исторической библиотеки России](http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib), [История Москвы и Московской области (губернии)](http://elib.shpl.ru/indexes/values/1719), [История храмов и монастырей](http://elib.shpl.ru/indexes/values/1460), [Библиографии](http://elib.shpl.ru/indexes/values/2059), [Адрес-календари, памятные и справочные книги
+](http://elib.shpl.ru/ru/nodes/9086), [Генеалогические и биографические справочник](http://elib.shpl.ru/indexes/values/1971), [«Всеобщая библиотека России»: Книги из Чертковской библиотеки](http://elib.shpl.ru/indexes/values/2076), [Военная история](http://elib.shpl.ru/indexes/values/6264), [Официальные источники](http://elib.shpl.ru/indexes/values/25914), [Законодательство Российской империи](http://elib.shpl.ru/indexes/values/2388)
 * [Самарская область](http://cgaso.regsamarh.ru) (требуется авторизация)
 * [Финляндия](http://www.sukuhistoria.fi/sshy/index_eng.htm)
 * [Эстония](http://www.ra.ee/dgs/explorer.php)
