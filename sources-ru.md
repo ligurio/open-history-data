@@ -3,26 +3,29 @@
 * [Башкортостан](http://edoclib.gasrb.ru/)
 * [Латвия](http://www.lvva-raduraksti.lv/ru/about.html)
 * [Пермский край](http://pokolenia.permkrai.ru/)
-* Россия [Докусфера](http://leb.nlr.ru/), [Российская Национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do)
-* [Самарская область](http://cgaso.regsamarh.ru)
+* Россия [Докусфера](http://leb.nlr.ru/), [Российская Национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do), [Электронная библиотека Государственной публичной исторической библиотеки России](http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib)
+* [Самарская область](http://cgaso.regsamarh.ru) (требуется авторизация)
+* [Финляндия](http://www.sukuhistoria.fi/sshy/index_eng.htm)
 * [Эстония](http://www.ra.ee/dgs/explorer.php)
 
 ## Войны
 
 * [Отечественная война 1812 года](http://officers.wardoc.ru/)
+* [Интербригады Республиканской армии Испании](http://interbrigades.inforost.org/)
+* [Германские документы Первой мировой войны](http://tsamo.germandocsinrussia.org/ru/nodes/2)
 * [Военопленные, погибшие во время Зимней войны в 1939-1940 годах в Финляндии](http://kronos.narc.fi/sfv1/sfv1.html)
 * [Погибшие в гражданских лагерях восточной Карелии в 1941–1944 годах](http://kronos.narc.fi/karelija/karelija.html)
 * [Гражданские лица, погибшие в 1941–44 годах в лагерях района Миехиккяля](http://kronos.narc.fi/miehikkala/ru/)
 * [Немецкие военнопленные, погибшие осенью 1944 года](http://kronos.narc.fi/saksa/ru/)
+* [Коллекция документов спецслужб Германии 1912-1945 гг.](http://rgaspi-458-9.dlibrary.org/ru/nodes/1-kollektsiya-dokumentov-spetssluzhb-germanii-1912-1945-gg-rgaspi-fond-458-opis-9)
 * [База данных о военопленных](http://www.dokst.ru/node/1118)
 * [База данных осуждённых немцев](http://www.dokst.de/main/node/1114)
 * Военопленные в Норвегии [1](http://arcticwar.pomorsu.ru/memorial/voennoplen/voen.html), [2](http://129.177.171.80/cgi-win/webcens.exe?slag=visbase&filnamn=krgfang1&spraak=e&metanr=2510)
 * [Военнопленные, погибшие на войне между Финляндией и Советским Союзом в 1941–1944 годах](http://kronos.narc.fi/sfv2/sfv2.html)
 * [Великая Отечественная война 1941-1945](http://www.obd-memorial.ru/)
 * [Электронный банк документов «Подвиг народа в Великой Отечественной войне 1941-1945 гг.»](http://www.podvignaroda.mil.ru/)
+* [Российско-Германский проект по оцифровке германских документов в архивах Российской Федерации](http://germandocsinrussia.org/)
 * [Межрегиональный информационно-поисковый центр](http://ipc.antat.ru/Ref/allq.asp) (требуется авторизация)
-* [Война в Афганистане](http://www.afgan.ru/memoryafgan/)
-* [Книга Памяти: Списки советских и российских граждан, погибших во время войн, военных конфликтов и боевых действий в межвоенный период и после 1945 года](http://patriot-izdat.ru/memory/memorybook/)
 * [Список Героев Советского Союза](http://www.warheroes.ru/main.asp)
 * [Список полных кавалеров Ордена Славы](http://encyclopedia.mil.ru/encyclopedia/gentlemens.htm)
 
@@ -35,6 +38,10 @@
 * [Тверь и Тверская область](http://www.history.tver.ru/book/index.html)
 * Украина [1](http://www.memory-book.com.ua/people/search), [2](http://memory.dag.com.ua/)
 * [Ярославская область](http://kluchnik-v.narod.ru/KP-01/spisok-01-000.htm)
+
+[Книга Памяти: Списки советских и российских граждан, погибших во время войн, военных конфликтов и боевых действий в межвоенный период и после 1945 года](http://patriot-izdat.ru/memory/memorybook/)
+
+[Война в Афганистане](http://www.afgan.ru/memoryafgan/)
 
 [Сводная база данных о воинах, погибших и пропавших без вести в годы Великой Отечественной войны](http://old.v-ipc.ru/Ref/all.asp) из [следующих источников](http://old.v-ipc.ru/docs/all.asp).
 
@@ -57,7 +64,7 @@
 * Кубань [поиск](http://kubanmemo.ru/bookmemo/search_card.php) и [список](http://kubanmemo.ru/bookmemo/content_table.php)
 * [Курганская область](http://www.memo.ru/memory/kurgan/index.htm)
 * [Ленинградская область](http://lenww2.ru/)
-* [Ленинград](http://www.visz.nlr.ru/search/peter.html) [Санкт-Петербургский мартиролог духовенства и мирян](http://www.petergen.com/bovkalo/mart.html)
+* [Ленинград](http://www.visz.nlr.ru/search/peter.html), [Санкт-Петербургский мартиролог духовенства и мирян](http://www.petergen.com/bovkalo/mart.html)
 * [Липецкая область](http://www.memo.ru/memory/lipeck/index.htm)
 * [Магаданская область](http://www.memo.ru/memory/magadan/index.htm)
 * [Республика Марий Эл](http://www.memo.ru/memory/mari/index.htm)
@@ -125,3 +132,7 @@
 
 * [Книга Памяти советских немцев-узников Тагиллага](http://www.rusdeutsch.ru/?tagil=5)
 * [Книга Памяти немцев-трудармейцев Богословлага](http://www.rusdeutsch.ru/?bogoslov=1)
+
+## Фотографии
+
+* [Народная электронная коллекция фотографий и документов Первой мировой войны](https://www.flickr.com/groups/greatwararchive/pool/)
