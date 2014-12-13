@@ -105,6 +105,7 @@
 * [Кладбища советских граждан в Бельгии, Германии и Норвегии](http://www.dokst.ru/main/content/%D0%9A%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B0/%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B0-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD)
 * [База данных убитых, похороненных и пропавших без вести на территории Московской области в 1941-1942 годах](http://www.mosobl-memorial.ru/)
 * [Памятники Второй мировой войны 1939–1945 гг. Санкт-Петербурга и Ленинградской области](http://www.lenww2.ru/)
+* Воинские захоронения в г. Санкт-Петербурге [1](http://gov.spb.ru/gov/terr/reg_kronsht/perechen-voinskih-zahoronenij-kronshtadtskogo-rajona/), [2](http://gov.spb.ru/gov/terr/reg_kalinin/voinskie-zahoroneniya/), [3](http://gov.spb.ru/gov/terr/reg_petrodv/perechen-voinskih-zahoronenij-v-petrodvorcovom-rajone/), [4](http://gov.spb.ru/gov/terr/reg_pushkin/voinskie-zahoroneniya-i-memorialy/)
 * [Военные могилы иностранцев в Норвегии](http://www.krigsgraver.no/home?locale=ru)
 * [Захоронения советских воинов в Литовской Республике](http://db.militaryheritage.eu/)
 * [Информация о захоронениях воинов, погибших в годы Великой Отечественной войны 1941-1945 гг., расположенных на территории Тульской области](http://opendata71.ru/opendata/7107028097-ukvz)
