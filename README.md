@@ -21,6 +21,10 @@
 В планах добавить больше источников и сделать специализированный поисковик
 по таким ресурсам (наподобие [people.yandex.ru](http://people.yandex.ru)).
 
+Для поиска по англоязычным источникам имеет смысл воспользоваться сайтом
+[Cyndi's List of Genealogy Sites on the Internet](http://www.cyndislist.com/),
+но сайт к сожалению содержит много сломанных ссылок.
+
 ### Как пользоваться?
 
 Вы можете пользоваться непосредственно самими списками источников
@@ -29,4 +33,3 @@
 Бронников Сергей [@estet](https://twitter.com/estet) (estetus@gmail.com)
 
 [Google CSE]: https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy
-[Cyndi's List of Genealogy Sites on the Internet]: http://www.cyndislist.com/ - нет источников по России и много сломанных ссылок.
