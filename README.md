@@ -29,3 +29,4 @@
 Бронников Сергей [@estet](https://twitter.com/estet) (estetus@gmail.com)
 
 [Google CSE]: https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy
+[Cyndi's List of Genealogy Sites on the Internet]: http://www.cyndislist.com/ - нет источников по России и много сломанных ссылок.
