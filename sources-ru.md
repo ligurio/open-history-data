@@ -21,7 +21,7 @@
 * [Коллекция документов спецслужб Германии 1912-1945 гг.](http://rgaspi-458-9.dlibrary.org/ru/nodes/1-kollektsiya-dokumentov-spetssluzhb-germanii-1912-1945-gg-rgaspi-fond-458-opis-9)
 * [База данных о военопленных](http://www.dokst.ru/node/1118)
 * [База данных осуждённых немцев](http://www.dokst.de/main/node/1114)
-* Военопленные в Норвегии [1](http://arcticwar.pomorsu.ru/memorial/voennoplen/voen.html), [2](http://129.177.171.80/cgi-win/webcens.exe?slag=visbase&filnamn=krgfang1&spraak=e&metanr=2510)
+* Военопленные в Норвегии [1](http://arcticwar.pomorsu.ru/memorial/voennoplen/voen.html), [2](http://gda.arkivverket.no/cgi-win/webcens.exe?slag=visbase&filnamn=krgfang1&spraak=e&metanr=2510)
 * [Военнопленные, погибшие на войне между Финляндией и Советским Союзом в 1941–1944 годах](http://kronos.narc.fi/sfv2/sfv2.html)
 * [Великая Отечественная война 1941-1945](http://www.obd-memorial.ru/)
 * [Электронный банк документов «Подвиг народа в Великой Отечественной войне 1941-1945 гг.»](http://www.podvignaroda.mil.ru/)
@@ -143,3 +143,9 @@
 ## Фотографии
 
 * [Народная электронная коллекция фотографий и документов Первой мировой войны](https://www.flickr.com/groups/greatwararchive/pool/)
+
+## Карты
+
+* [Retromap](http://retromap.ru/)
+* [Старые карты Москвы](http://oldmoscowmaps.ru/)
+* [Старые фотографии Москвы](https://pastvu.com/)
