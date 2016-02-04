@@ -120,7 +120,6 @@
 * [Бронниковы](http://bronnikovy.ru/)
 * [Высоцкие](http://wysocki.nsknet.ru/)
 * [Евсюковы](http://www.evsyukov.ru/)
-* [Зыкины](http://zykinweb.com/)
 * [Кабак](http://kabak.dp.ua/)
 * [Кандинские](http://www.kandinsky.ru/)
 * [Лаптевы](http://hunter-general.narod.ru/)
