@@ -147,6 +147,7 @@
 
 ## Карты
 
-* [Retromap](http://retromap.ru/)
+* [Ретрокарты](http://retromap.ru/)
 * [Старые карты Москвы](http://oldmoscowmaps.ru/)
 * [Старые фотографии Москвы](https://pastvu.com/)
+* [Литера Ру](http://maps.litera-ru.ru/)
