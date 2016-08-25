@@ -140,6 +140,7 @@
 * [Книга Памяти немцев-трудармейцев Богословлага](http://www.rusdeutsch.ru/?bogoslov=1)
 * [Узники Auschwitz](http://en.auschwitz.org/m/index.php?option=com_wrapper&Itemid=31)
 * [Жертвы Холокоста](http://www.ushmm.org/online/hsv/person_simple_search.php)
+* [JewishGen](http://jewishgen.org/) данные по еврейским общинам на территории Российской Империи
 
 ## Фотографии
 
