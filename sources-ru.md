@@ -57,6 +57,7 @@
 * [Георгиевские кавалеры Великой войны](http://cavalier.rusarchives.ru/)
 * [Военная литература](http://militera.org/)
 * [Военная история](http://elib.shpl.ru/indexes/values/6264)
+* [Герои страны](http://www.warheroes.ru/)
 
 ## Книги Памяти
 
