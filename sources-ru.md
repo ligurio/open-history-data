@@ -1,22 +1,44 @@
-## Архивы
+## Метрические книги, ревизские сказки, духовные росписи
 
+* [Архангельская область](http://dvinaland.org/genealogy/) (требуется регистрация)
 * [Башкортостан](http://edoclib.gasrb.ru/)
+* [Воронежская область](http://92.244.225.225:8082) (требуется авторизация)
+* [Пермская область](http://pokolenia.permkrai.ru/records/) (см. там же населённые пункты и карты Пермской области)
+* [Самарская область](http://cgaso.regsamarh.ru) (требуется авторизация)
+* [Санкт Петербуг](https://spbarchives.ru/paid_access)
+
 * [Латвия](http://www.lvva-raduraksti.lv/ru/about.html)
-* [Пермский край](http://pokolenia.permkrai.ru/)
-* Россия [Докусфера](http://leb.nlr.ru/), [Российская Национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do), [Электронная библиотека Государственной публичной исторической библиотеки России](http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib), [История Москвы и Московской области (губернии)](http://elib.shpl.ru/indexes/values/1719), [История храмов и монастырей](http://elib.shpl.ru/indexes/values/1460), [Библиографии](http://elib.shpl.ru/indexes/values/2059), [Адрес-календари, памятные и справочные книги
-](http://elib.shpl.ru/ru/nodes/9086), [Генеалогические и биографические справочник](http://elib.shpl.ru/indexes/values/1971), [«Всеобщая библиотека России»: Книги из Чертковской библиотеки](http://elib.shpl.ru/indexes/values/2076), [Военная история](http://elib.shpl.ru/indexes/values/6264), [Официальные источники](http://elib.shpl.ru/indexes/values/25914), [Законодательство Российской империи](http://elib.shpl.ru/indexes/values/2388)
-* [Самарская область (ЦГАСО)](http://cgaso.regsamarh.ru) (требуется авторизация)
-* [Воронежская область (ГАВО)](http://92.244.225.225:8082) (требуется авторизация)
-* [Некоторые единицы хранения РГАДА](http://rgada.info/kueh/index.php?Sk=300)
 * [Финляндия](http://www.sukuhistoria.fi/sshy/index_eng.htm)
 * [Эстония](http://www.ra.ee/dgs/explorer.php)
 
+## Населённые пункты
+
+* [Адрес-календари, памятные и справочные книги](http://elib.shpl.ru/ru/nodes/9086)
+* [Адрес-календари губерний России и их карты](http://book-old.ru/BookLibrary.html)
+* [Статистика и переписи России](http://book-old.ru/BookLibrary/00100-Statistika-Rossii.html)
+* [Ретрокарты](http://retromap.ru/)
+* [Старые карты Москвы](http://oldmoscowmaps.ru/)
+* [Старые фотографии Москвы](https://pastvu.com/)
+* [Литера Ру](http://maps.litera-ru.ru/)
+
 ## Войны
 
-* [Отечественная война 1812 года](http://officers.wardoc.ru/)
-* [Интербригады Республиканской армии Испании](http://interbrigades.inforost.org/)
-* [Германские документы Первой мировой войны](http://tsamo.germandocsinrussia.org/ru/nodes/2)
+### Отечественная война 1812
+
+* [Офицеры 1812 года](http://officers.wardoc.ru/)
+
+### Первая мировая война
+
+* [Портал, посвященный героям Первой мировой войны 1914 — 1918](http://gwar.elar.ru/)
+
+### Зимняя война 1939-1940
+
 * [Военопленные, погибшие во время Зимней войны в 1939-1940 годах в Финляндии](http://kronos.narc.fi/sfv1/sfv1.html)
+
+### Великая Отечественная война 1941-1945
+
+* [Интербригады Республиканской армии Испании](http://interbrigades.inforost.org/)
+* [Германские документы Первой мировой войны](http://wwii.germandocsinrussia.org/)
 * [Погибшие в гражданских лагерях восточной Карелии в 1941–1944 годах](http://kronos.narc.fi/karelija/karelija.html)
 * [Гражданские лица, погибшие в 1941–44 годах в лагерях района Миехиккяля](http://kronos.narc.fi/miehikkala/ru/)
 * [Немецкие военнопленные, погибшие осенью 1944 года](http://kronos.narc.fi/saksa/ru/)
@@ -25,14 +47,22 @@
 * [База данных осуждённых немцев](http://www.dokst.de/main/node/1114)
 * Военопленные в Норвегии [1](http://arcticwar.pomorsu.ru/memorial/voennoplen/voen.html), [2](http://gda.arkivverket.no/cgi-win/webcens.exe?slag=visbase&filnamn=krgfang1&spraak=e&metanr=2510)
 * [Военнопленные, погибшие на войне между Финляндией и Советским Союзом в 1941–1944 годах](http://kronos.narc.fi/sfv2/sfv2.html)
-* [Великая Отечественная война 1941-1945](http://www.obd-memorial.ru/)
-* [Электронный банк документов «Подвиг народа в Великой Отечественной войне 1941-1945 гг.»](http://www.podvignaroda.mil.ru/)
+* [Великая Отечественная война 1941-1945 (ОБД Мемориал)](http://www.obd-memorial.ru/)
+* [Портал "Подвиг народа в Великой Отечественной войне 1941-1945 гг."](http://www.podvignaroda.mil.ru/)
 * [Российско-Германский проект по оцифровке германских документов в архивах Российской Федерации](http://germandocsinrussia.org/)
 * [Межрегиональный информационно-поисковый центр](http://ipc.antat.ru/Ref/allq.asp) (требуется авторизация)
 * [Список Героев Советского Союза](http://www.warheroes.ru/main.asp)
 * [Список полных кавалеров Ордена Славы](http://encyclopedia.mil.ru/encyclopedia/gentlemens.htm)
+* [Память народа 1941-1945](https://pamyat-naroda.ru)
+* [Георгиевские кавалеры Великой войны](http://cavalier.rusarchives.ru/)
+* [Военная литература](http://militera.org/)
+* [Военная история](http://elib.shpl.ru/indexes/values/6264)
 
 ## Книги Памяти
+
+Замечание: Портал [obd-memorial.ru](http://obd-memorial.ru/) [содержит](http://www.obd-memorial.ru/html/sources.htm) записи более 1000 печатных Книг памяти.
+
+### Великая Отечественная война 1941-1945
 
 * [Волгоградская область](http://memorybook.volgadmin.ru/)
 * [Калининградская область](http://may1945-pobeda.narod.ru/kniga_pamjati5.htm)
@@ -42,11 +72,11 @@
 * Украина [1](http://www.memory-book.com.ua/people/search), [2](http://memory.dag.com.ua/)
 * [Ярославская область](http://kluchnik-v.narod.ru/KP-01/spisok-01-000.htm)
 
-[Книга Памяти: Списки советских и российских граждан, погибших во время войн, военных конфликтов и боевых действий в межвоенный период и после 1945 года](http://patriot-izdat.ru/memory/memorybook/)
+### После 1945 года
 
-[Война в Афганистане](http://www.afgan.ru/memoryafgan/)
-
-[Сводная база данных о воинах, погибших и пропавших без вести в годы Великой Отечественной войны](http://old.v-ipc.ru/Ref/all.asp) из [следующих источников](http://old.v-ipc.ru/docs/all.asp).
+* [Списки советских и российских граждан, погибших во время войн, военных конфликтов и боевых действий в межвоенный период и после 1945 года](http://patriot-izdat.ru/memory/memorybook/)
+* [Война в Афганистане](http://www.afgan.ru/memoryafgan/)
+* [Сводная база данных о воинах, погибших и пропавших без вести в годы Великой Отечественной войны](http://old.v-ipc.ru/Ref/all.asp) из [следующих источников](http://old.v-ipc.ru/docs/all.asp).
 
 ## Книги Памяти жертв политических репрессий
 
@@ -90,13 +120,10 @@
 * [Ярославская область](http://kluchnik-v.narod.ru/KP-01/spisok-01-000.htm)
 * [Ярославль](http://www.memorial.yaroslavl.ru/spisky/spiski_frame.htm)
 
-[Сталинские расстрельные списки](http://stalin.memo.ru/index.htm)
-
-[Расстрелянные в Москве](http://mos.memo.ru/)
-
-[Жертвы политического террора в СССР](http://lists.memo.ru/)
-
-[Имена репрессированных, которые не были обнародованы в других Книгах Памяти жертв политических репрессий](http://www.visz.nlr.ru:8101/search/lists/vi/)
+* [Сталинские расстрельные списки](http://stalin.memo.ru/index.htm)
+* [Расстрелянные в Москве](http://mos.memo.ru/)
+* [Жертвы политического террора в СССР](http://lists.memo.ru/)
+* [Имена репрессированных, которые не были обнародованы в других Книгах Памяти жертв политических репрессий](http://www.visz.nlr.ru:8101/search/lists/vi/)
 
 ## Могилы и захоронения
 
@@ -114,6 +141,8 @@
 
 ## Фамильные генеалогические древа
 
+* [Родословные дворян и архивы](http://book-old.ru/BookLibrary/00606-Rodoslovnyie-dvoryan.html)
+* [Генеалогические и биографические справочники](http://elib.shpl.ru/indexes/values/1971)
 * [Алалыкины](http://clan-alalykin.ru/ru_2main.html)
 * [Алфеевы](http://www.alfeev.ru/)
 * [Анциферовы](http://www.hot.ee/a/antsiferov/)
@@ -145,10 +174,3 @@
 ## Фотографии
 
 * [Народная электронная коллекция фотографий и документов Первой мировой войны](https://www.flickr.com/groups/greatwararchive/pool/)
-
-## Карты
-
-* [Ретрокарты](http://retromap.ru/)
-* [Старые карты Москвы](http://oldmoscowmaps.ru/)
-* [Старые фотографии Москвы](https://pastvu.com/)
-* [Литера Ру](http://maps.litera-ru.ru/)
