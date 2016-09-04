@@ -158,6 +158,7 @@
 * [Газетные архивы](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives)
 * [Электронные описи Федеральных архивов](http://www.rusarchives.ru/elektronnye-opisi-federalnyh-arhivov)
 * [База данных рассекреченных дел и документов федеральных государственных архивов](http://unsecret.rusarchives.ru/)
+* [Деловая элита России 1914 г.](http://rod.meller.su/Ros_burzhuazia_1914/Ros_burzh_1914-0.htm)
 
 ## Фотографии
 
