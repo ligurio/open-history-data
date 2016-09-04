@@ -59,8 +59,10 @@
 * [Список полных кавалеров Ордена Славы](http://encyclopedia.mil.ru/encyclopedia/gentlemens.htm)
 * [Память народа 1941-1945](https://pamyat-naroda.ru)
 * [Военная литература](http://militera.org/)
+* [Старые газеты](http://oldgazette.ru/)
 * [Военная история](http://elib.shpl.ru/indexes/values/6264)
 * [Герои страны](http://www.warheroes.ru/)
+* [Воспоминания ветеранов Великой Отечественной Войны](http://iremember.ru/)
 
 ## Книги Памяти
 
@@ -152,6 +154,9 @@
 * [Узники Auschwitz](http://en.auschwitz.org/m/index.php?option=com_wrapper&Itemid=31)
 * [Жертвы Холокоста](http://www.ushmm.org/online/hsv/person_simple_search.php)
 * [JewishGen](http://jewishgen.org/) данные по еврейским общинам на территории Российской Империи
+* [Газетные архивы](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives)
+* [Электронные описи Федеральных архивов](http://www.rusarchives.ru/elektronnye-opisi-federalnyh-arhivov)
+* [База данных рассекреченных дел и документов федеральных государственных архивов](http://unsecret.rusarchives.ru/)
 
 ## Фотографии
 
