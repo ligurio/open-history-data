@@ -181,6 +181,7 @@
 * [Знаменитые потомки князя Рюрика. Россия, Европа, США](http://genealogia.ru/users/genfamous/)
 * [Единое Шежере Казахов](http://www.elim.kz/)
 * [Генеалогия Украины](http://www.genealogy.zp.ua/)
+* [Многоязычное генеалогическое древо](http://ru.rodovid.org/)
 
 ## Форумы и сообщества
 
@@ -197,6 +198,8 @@
 * [Ufagen](http://ufagen.ru/forum)
 * [Международный генеалогический форум Генео](http://forum.genoua.name/)
 * [Архивы России](http://forum.rusarchives.ru/)
+* [Наши родные...](http://rusgenealogy.clan.su/forum/)
+* [Генеалогическая база знаний: персоны, фамилии, хроника](http://baza.vgdru.com/)
 
 ## Фотографии
 
