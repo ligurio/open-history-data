@@ -1,3 +1,6 @@
+<!-- http://wiki.svrt.ru/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BD%D0%B5%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3 -->
+<!-- http://www.garshin.ru/history/genealogy/family-tree.html -->
+
 ## Метрические книги, ревизские сказки, духовные росписи
 
 * [Архангельская область](http://dvinaland.org/genealogy/) (требуется регистрация)
@@ -40,6 +43,7 @@
 * [Георгиевские кавалеры](http://kdkv.narod.ru/92/GK-WW1.html)
 * [Списки Георгиевских кавалеров 1914-1918](http://medalirus.ru/georgievskie-kavalery/prikazy/prikazy-alfavit.php)
 * [Георгиевские кавалеры нижние чины, награжденные за отличие в 1-й Мировой войне](http://www.history-ryazan.ru/node/13050)
+* [Георгиевские кавалеры - участники Первой мировой войны](http://svrt.ru/1914/1914-4.htm)
 
 ### Великая Отечественная война 1941-1945
 
@@ -143,13 +147,16 @@
 * [Кандинские](http://www.kandinsky.ru/)
 * [Корневы](http://www.okorneva.ru/)
 * [Лаптевы](http://hunter-general.narod.ru/)
+* [Матусевичи](http://www.matusewicz.org/)
 * [Меллеры](http://rod.meller.su/)
 * [Мухановы](http://www.mukhanov.ru/)
 * [Никифоровы](http://sgd.ucoz.ru/)
 * [Омельянчук](http://anshar.livejournal.com/tag/%D0%92%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)
+* [Палашкины](http://palashkina.narod.ru/)
 * [Потанины](http://potanin.clan.su/)
 * [Поляковы](http://poljakovy-plus.clan.su/)
 * [Ремезовы](http://www.remezovi.ru/site/)
+* [Сердюк](http://www.serdyuk.com/)
 * [Седельниковы](http://sedfed.ucoz.ru/)
 * [Степанищевы](http://bolknote.ru/write/?myheritage)
 * [Топоров](http://toporov.info/webtrees/index.php?ctype=gedcom&ged=igor)
@@ -170,6 +177,26 @@
 * [Электронные описи Федеральных архивов](http://www.rusarchives.ru/elektronnye-opisi-federalnyh-arhivov)
 * [База данных рассекреченных дел и документов федеральных государственных архивов](http://unsecret.rusarchives.ru/)
 * [Деловая элита России 1914 г.](http://rod.meller.su/Ros_burzhuazia_1914/Ros_burzh_1914-0.htm)
+* [Генеалогия (родословные) правивших семейств России и Европы](http://topclas.org/)
+* [Знаменитые потомки князя Рюрика. Россия, Европа, США](http://genealogia.ru/users/genfamous/)
+* [Единое Шежере Казахов](http://www.elim.kz/)
+* [Генеалогия Украины](http://www.genealogy.zp.ua/)
+
+## Форумы и сообщества
+
+* [Генеалогический форум ВГД](http://forum.vgd.ru/)
+* [Петербургский генеалогический портал](http://www.petergen.com/)
+* [Союз возрождения родословных традиций](http://www.svrt.ru/)
+* [Мурманское родословное общество](http://rodmurmana.narod.ru/)
+* [Найди свои корни в Беларуси и Литве](http://www.radzima.net/)
+* [Ярославское историко-родословное общество](http://forum.yar-genealogy.ru/)
+* [Молекулярная генеалогия](http://forum.molgen.org/)
+* [Генеалоги.ру](http://www.genealogia.ru/forum/)
+* [Форум Уральской генеалогии](http://rodgersforum.borda.ru/)
+* [Форум Литера Ру](http://forum.litera-ru.ru/)
+* [Ufagen](http://ufagen.ru/forum)
+* [Международный генеалогический форум Генео](http://forum.genoua.name/)
+* [Архивы России](http://forum.rusarchives.ru/)
 
 ## Фотографии
 
