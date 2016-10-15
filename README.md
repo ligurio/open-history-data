@@ -32,4 +32,12 @@ _онлайн_ источники данных.
 
 По всем вопросам обращаться в [твиттер](https://twitter.com/estet) или почту (estetus@gmail.com).
 
+Онлайн-поиск возможен не по всем источникам в силу разных причин.
+- доступны сканы без оцифровки ([пример](http://digi.narc.fi/digi/view.ka?kuid=4925743))
+- информация доступна в текстовом виде, но не проиндексирована поисковиком ([пример](http://edoclib.gasrb.ru/))
+- информация свободно доступна, но требуется авторизация ([Архив Воронежской области](http://92.244.225.225:8082/),
+[Архив Самарской области](http://cgaso.regsamarh.ru/)
+- https://spbarchives.ru/,"Санкт Петербуг","Источники"
+- https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives,"Газетные архивы","Источники"
+
 [Google CSE]: https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy
