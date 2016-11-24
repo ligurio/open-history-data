@@ -38,6 +38,7 @@ _онлайн_ источники данных.
 - информация свободно доступна, но требуется авторизация ([Архив Воронежской области](http://92.244.225.225:8082/),
 [Архив Самарской области](http://cgaso.regsamarh.ru/)
 - https://spbarchives.ru/
+- http://dostup.memo.ru/
 - https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives
 
 [Google CSE]: https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy
