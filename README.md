@@ -29,6 +29,7 @@ _онлайн_ источники данных.
 * http://www.cyndislist.com/ (содержит много сломанных ссылок)
 * http://www.genealogyintime.com/tools/family-tree-search-engine.html
 * http://www.genealogyintime.com/tools/genealogy-search-engine.html
+* https://www.reddit.com/r/Genealogy/wiki/free
 
 По всем вопросам обращаться в [твиттер](https://twitter.com/estet) или почту (estetus@gmail.com).
 
