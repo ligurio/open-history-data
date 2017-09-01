@@ -40,6 +40,7 @@ _онлайн_ источники данных.
 [Архив Самарской области](http://cgaso.regsamarh.ru/)
 - https://spbarchives.ru/
 - http://dostup.memo.ru/
+- в форматах для машинной обработки - https://www.memo.ru/ru-ru/projects/hackathon
 - https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives
 
 [Google CSE]: https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy
