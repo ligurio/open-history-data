@@ -1,6 +1,6 @@
 ## Поиск генеалогической информации
 
-[![Build Status](https://travis-ci.org/ligurio/genealogic-sources.svg?branch=master)](https://travis-ci.org/ligurio/genealogic-sources)
+[![Build Status](https://travis-ci.org/ligurio/open-history-data.svg?branch=master)](https://travis-ci.org/ligurio/open-history-data)
 
 При поиске информации о родственниках для
 [составления родословной](https://bronevichok.ru/blog/2014/04/03/genealogic-tree.html)
