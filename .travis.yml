@@ -1,15 +1,17 @@
-language: python
+language: ruby
 
-python:
-  - 2.7
+rvm:
+  - 2.2
 
-install:
-  - pip install requests markdown beautifulsoup4
+before_script:
+  - gem install awesome_bot
 
 script:
-  - python check_urls.py sources-ru.md
-  - python check_urls.py sources-non-ru.md
+  - awesome_bot sources-ru.csv --allow-redirect --allow-ssl
 
 notifications:
   email:
-    - estetus+travis-ci@gmail.com
+    recipients:
+      - estetus+travis-ci@gmail.com
+    on_success: change
+    on_failure: always
