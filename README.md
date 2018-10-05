@@ -42,6 +42,7 @@ _онлайн_ источники данных.
 - http://dostup.memo.ru/
 - в форматах для машинной обработки - https://www.memo.ru/ru-ru/projects/hackathon
 - https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives
+- https://en.wikipedia.org/wiki/List_of_genealogy_databases
 - https://drive.google.com/drive/folders/0B5haFpvgzsyhWXVXQXlhdDJtXzA
 
 [Google CSE]: https://www.google.ru/cse/publicurl?cx=014915845746009296139:coftj0uhtsy
