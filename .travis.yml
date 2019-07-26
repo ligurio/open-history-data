@@ -7,7 +7,7 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot sources-ru.csv --allow-redirect --allow-ssl --white-list http://bronnikovy.ru/,http://www.mukhanov.ru/
+  - awesome_bot sources-ru.csv --allow-redirect --allow-ssl --white-list http://www.findagrave.com/,http://www.mukhanov.ru/,http://june-22.mil.ru/june-22  
 
 notifications:
   email:
