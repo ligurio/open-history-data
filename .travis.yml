@@ -7,7 +7,7 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot sources-ru.csv --allow-redirect --allow-ssl --white-list http://www.findagrave.com/,http://www.mukhanov.ru/,http://june-22.mil.ru/june-22  
+  - awesome_bot sources-ru.csv --allow-redirect --allow-ssl --white-list http://www.findagrave.com/,http://www.mukhanov.ru/,http://june-22.mil.ru/june-22,http://elib.shpl.ru/,http://elib.shpl.ru/ru/nodes/5061-imennoy-spisok-poter-na-frontah-v-lichnom-sostave-raboche-krestyanskoy-krasnoy-armii-za-vremya-grazhdanskoy-voyny-m-1926
 
 notifications:
   email:
