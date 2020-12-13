@@ -12,6 +12,8 @@
 * Norway [1](http://arkivverket.no/Digitalarkivet), [2](http://www.dokpro.uio.no/rygh_ng/rygh_form.html)
 * United States [1](http://www.usgenweb.org/), [2](http://www.libertyellisfoundation.org/passenger)
 * [Germany Geonames](http://christoph.stoepel.net/geogen/en/Default.aspx)
+* Latvia:
+  * http://periodika.lv/
 
 ## Misc
 
